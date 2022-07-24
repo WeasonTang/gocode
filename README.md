@@ -1,0 +1,2 @@
+# gocode
+go练习
